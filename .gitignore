@@ -1,0 +1,22 @@
+# Build output
+build/
+cmake-build-*/
+
+# VS Code, IDE, temporary files
+.vscode/
+.idea/
+*.log
+*.swp
+*.tmp
+
+# Compiled and binary files
+*.exe
+*.obj
+*.o
+*.pdb
+*.dll
+*.a
+*.lib
+*.so
+*.dylib
+*.out
